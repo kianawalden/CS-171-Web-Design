@@ -21,3 +21,23 @@
   background-color: #696969;
   color: white;
 }
+
+div.welcome {
+  position: relative;
+  left: 27%;
+  right:15%;
+  top: 25%;
+  width: auto;
+
+}
+
+.container {
+position: relative;
+width: 50%;
+}
+
+.image {
+display: block;
+width: 50%;
+height: 65%;
+}
